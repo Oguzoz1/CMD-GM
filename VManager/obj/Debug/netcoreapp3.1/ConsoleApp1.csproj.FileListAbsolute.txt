@@ -1,0 +1,14 @@
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\VillageManager.exe
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\VillageManager.deps.json
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\VillageManager.runtimeconfig.json
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\VillageManager.runtimeconfig.dev.json
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\VillageManager.dll
+O:\VSAPP\ConsoleApp1\bin\Debug\netcoreapp3.1\VillageManager.pdb
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\VillageManager.csproj.AssemblyReference.cache
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\VillageManager.GeneratedMSBuildEditorConfig.editorconfig
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\VillageManager.AssemblyInfoInputs.cache
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\VillageManager.AssemblyInfo.cs
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\VillageManager.csproj.CoreCompileInputs.cache
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\VillageManager.dll
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\VillageManager.pdb
+O:\VSAPP\ConsoleApp1\obj\Debug\netcoreapp3.1\VillageManager.genruntimeconfig.cache
